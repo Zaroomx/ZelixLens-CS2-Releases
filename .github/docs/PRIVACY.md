@@ -31,6 +31,6 @@ Never submit passwords, recovery codes, payment-card information, or unrelated p
 
 ## Questions and requests
 
-For questions about ZelixLens-held account or support information, open a private ticket in the [official Discord](https://discord.gg/KaA3YBZ43D). Requests involving KeyAuth, GitHub, or Discord data may also need to be directed to the relevant service provider.
+For questions about ZelixLens-held account or support information, open a private ticket in the [official Discord](https://discord.gg/nr78wGAfGd). Requests involving KeyAuth, GitHub, or Discord data may also need to be directed to the relevant service provider.
 
 This notice should be updated whenever a release materially changes its authentication, storage, update, analytics, or support data flows.

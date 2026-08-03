@@ -18,7 +18,7 @@ Use this repository's **Security → Report a vulnerability** option to report:
 
 Include the affected version, a concise reproduction, the expected result, and the observed result. Do not include live access keys, passwords, tokens, recovery codes, or unnecessary personal information.
 
-If GitHub private vulnerability reporting is unavailable, open a private ticket in the [official ZelixLens Discord](https://discord.gg/KaA3YBZ43D) and ask for the security-reporting contact. Do not post vulnerability details in a public channel.
+If GitHub private vulnerability reporting is unavailable, open a private ticket in the [official ZelixLens Discord](https://discord.gg/nr78wGAfGd) and ask for the security-reporting contact. Do not post vulnerability details in a public channel.
 
 ## Security-software reports
 
