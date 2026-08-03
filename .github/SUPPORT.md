@@ -2,8 +2,8 @@
 
 Use the official ZelixLens channels:
 
-- [GitHub Releases](https://github.com/Zaroomx/ZelixLens-Releases/releases/latest) or the Zelix Lens Discord [#download channel](https://discord.com/channels/1526369471256596560/1527019431836913766) for downloads
-- [GitHub Discussions](https://github.com/Zaroomx/ZelixLens-Releases/discussions) for public announcements and non-sensitive questions
+- [GitHub Releases](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest) or the Zelix Lens Discord [#download channel](https://discord.com/channels/1526369471256596560/1527019431836913766) for downloads
+- [GitHub Discussions](https://github.com/Zaroomx/ZelixLens-CS2-Releases/discussions) for public announcements and non-sensitive questions
 - [Official Discord](https://discord.gg/KaA3YBZ43D) for access, account, and private installation support
 
 ## Before requesting help

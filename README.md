@@ -7,13 +7,13 @@
 
 **FULL KERNEL BACKEND · EXTERNAL · READ-ONLY · HIGH-REFRESH OVERLAY**
 
-[![Latest release](https://img.shields.io/github/v/release/Zaroomx/ZelixLens-Releases?display_name=tag&sort=semver&style=for-the-badge&color=22c55e)](https://github.com/Zaroomx/ZelixLens-Releases/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/Zaroomx/ZelixLens-CS2-Releases?display_name=tag&sort=semver&style=for-the-badge&color=22c55e)](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest)
 [![Kernel backend](https://img.shields.io/badge/Backend-Full%20Kernel-DC2626?style=for-the-badge)](#full-kernel-external-and-read-only)
 [![Read-only](https://img.shields.io/badge/Memory-Read--Only-0891B2?style=for-the-badge)](#full-kernel-external-and-read-only)
 ![Undetected](https://img.shields.io/badge/Status-UNDETECTED-16A34A?style=for-the-badge)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#system-requirements)
 
-[![Download ZelixLens](https://img.shields.io/badge/DOWNLOAD-Latest%20Complete%20Package-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaroomx/ZelixLens-Releases/releases/latest/download/ZelixLens-CS2-Edition.zip)
+[![Download ZelixLens](https://img.shields.io/badge/DOWNLOAD-Latest%20Launcher-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest/download/ZelixLens-Launcher.zip)
 [![Get a key](https://img.shields.io/badge/GET%20A%20KEY-Affordable%20Access-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KaA3YBZ43D)
 
 **Official downloads are available from GitHub Releases and the ZelixLens Discord.**
@@ -115,29 +115,29 @@ ZelixLens is designed to work across normal Counter-Strike 2 match types, includ
 
 | Download the software | Purchase access |
 |---|---|
-| Download `ZelixLens-CS2-Edition.zip` from the [latest GitHub release](https://github.com/Zaroomx/ZelixLens-Releases/releases/latest) or the official Discord [download channel](https://discord.com/channels/1526369471256596560/1527019431836913766). | Join the [official ZelixLens Discord](https://discord.gg/KaA3YBZ43D) to view current prices and purchase a daily, weekly, monthly, or lifetime key. |
+| Download `ZelixLens-Launcher.zip` using the permanent [latest-download link](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest/download/ZelixLens-Launcher.zip). The launcher downloads the newest verified CS2 build. | Join the [official ZelixLens Discord](https://discord.gg/KaA3YBZ43D) to view current prices and purchase a daily, weekly, monthly, or lifetime key. |
 
 <div align="center">
 
-[![Download package](https://img.shields.io/badge/DOWNLOAD-ZelixLens--CS2--Edition.zip-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaroomx/ZelixLens-Releases/releases/latest/download/ZelixLens-CS2-Edition.zip)
+[![Download package](https://img.shields.io/badge/DOWNLOAD-ZelixLens--Launcher.zip-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest/download/ZelixLens-Launcher.zip)
 [![Purchase key](https://img.shields.io/badge/PURCHASE%20A%20KEY-Official%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KaA3YBZ43D)
 
 </div>
 
 Only use these official customer sources:
 
-- **GitHub:** [Zaroomx/ZelixLens-Releases](https://github.com/Zaroomx/ZelixLens-Releases)
+- **GitHub:** [Zaroomx/ZelixLens-CS2-Releases](https://github.com/Zaroomx/ZelixLens-CS2-Releases)
 - **Discord:** [ZelixLens official server](https://discord.gg/KaA3YBZ43D)
 
 Do not purchase keys from unsolicited direct messages or download reuploaded packages from unofficial mirrors.
 
 ## Quick start
 
-1. Download the complete `ZelixLens-CS2-Edition.zip` package from GitHub or the official Discord download channel.
+1. Download `ZelixLens-Launcher.zip` from the permanent [latest-download link](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest/download/ZelixLens-Launcher.zip).
 2. Compare the package hash with `SHA256SUMS.txt` by following the [verification guide](.github/docs/VERIFY.md).
 3. Extract the complete ZIP into its own folder.
 4. Run `ZelixLens.Launcher.exe`.
-5. Enter your access key and select **Verify & Launch**.
+5. Select **Counter-Strike 2**. Choose **Download** if prompted, then enter your access key and select **Verify & Launch**.
 
 Use the complete, unmodified package. ZelixLens is not responsible for problems caused by incorrect use, incomplete extraction, modified files, unofficial copies, or third-party reuploads.
 
@@ -159,7 +159,7 @@ See [Verify a download](.github/docs/VERIFY.md) for the complete PowerShell veri
 - An active ZelixLens access key
 - Network access for license verification and authenticated updates
 
-CS2 changes frequently. Check the date and compatibility notes on the [latest release](https://github.com/Zaroomx/ZelixLens-Releases/releases/latest) before installing an older package.
+CS2 changes frequently. Check the date and compatibility notes on the [latest release](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest) before installing an older package.
 
 ## Support and troubleshooting
 
@@ -192,7 +192,7 @@ ZelixLens is proprietary, binary-distributed software. An active access license 
 
 <div align="center">
 
-**[Download latest](https://github.com/Zaroomx/ZelixLens-Releases/releases/latest)** · **[Get a key](https://discord.gg/KaA3YBZ43D)** · **[Verify](.github/docs/VERIFY.md)** · **[Support](.github/SUPPORT.md)**
+**[Download latest](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest/download/ZelixLens-Launcher.zip)** · **[Get a key](https://discord.gg/KaA3YBZ43D)** · **[Verify](.github/docs/VERIFY.md)** · **[Support](.github/SUPPORT.md)**
 
 <sub>ZelixLens CS2 Edition · Official customer releases by Zaroomx</sub>
 

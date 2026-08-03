@@ -4,7 +4,7 @@ Use these steps before running a newly downloaded ZelixLens package.
 
 ## 1. Download from an official source
 
-Download `ZelixLens-CS2-Edition.zip` from the [latest GitHub release](https://github.com/Zaroomx/ZelixLens-Releases/releases/latest) or the Zelix Lens Discord [#download channel](https://discord.com/channels/1526369471256596560/1527019431836913766).
+Download `ZelixLens-Launcher.zip` from the permanent [latest-download link](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest/download/ZelixLens-Launcher.zip) or the Zelix Lens Discord [#download channel](https://discord.com/channels/1526369471256596560/1527019431836913766).
 
 Then download `SHA256SUMS.txt` from the GitHub release for the published verification value.
 
@@ -15,10 +15,10 @@ Do not use copies sent through direct messages or hosted on unofficial mirrors.
 Open PowerShell in the folder containing the downloaded ZIP and run:
 
 ```powershell
-Get-FileHash -Algorithm SHA256 -LiteralPath .\ZelixLens-CS2-Edition.zip
+Get-FileHash -Algorithm SHA256 -LiteralPath .\ZelixLens-Launcher.zip
 ```
 
-Open `SHA256SUMS.txt` and confirm that the value beside `ZelixLens-CS2-Edition.zip` exactly matches the value printed by PowerShell.
+Open `SHA256SUMS.txt` and confirm that the value beside `ZelixLens-Launcher.zip` exactly matches the value printed by PowerShell.
 
 You can also calculate all downloaded release-asset hashes with:
 
