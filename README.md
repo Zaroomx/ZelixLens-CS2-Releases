@@ -2,15 +2,12 @@
 
 # ZelixLens CS2 Edition
 
-**Private, kernel-backed CS2 software for Windows 10/11 x64.**
+**Customer-ready CS2 software for Windows 10/11 x64.**
 
 
-**FULL KERNEL BACKEND · EXTERNAL · READ-ONLY · HIGH-REFRESH OVERLAY**
+**PLAYER VISUALS · RADAR · AIM CONTROLS · HIGH-REFRESH OVERLAY**
 
 [![Latest release](https://img.shields.io/github/v/release/Zaroomx/ZelixLens-CS2-Releases?display_name=tag&sort=semver&style=for-the-badge&color=22c55e)](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest)
-[![Kernel backend](https://img.shields.io/badge/Backend-Full%20Kernel-DC2626?style=for-the-badge)](#full-kernel-external-and-read-only)
-[![Read-only](https://img.shields.io/badge/Memory-Read--Only-0891B2?style=for-the-badge)](#full-kernel-external-and-read-only)
-![Undetected](https://img.shields.io/badge/Status-UNDETECTED-16A34A?style=for-the-badge)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#system-requirements)
 
 [![Download ZelixLens](https://img.shields.io/badge/DOWNLOAD-Latest%20Launcher-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest/download/ZelixLens-Launcher.zip)
@@ -44,8 +41,8 @@
 
 | | ZelixLens CS2 Edition |
 |---|---|
-| **Backend** | Full kernel-backed, read-only memory transport |
-| **Operating model** | External application with no game-process injection or memory writes |
+| **Interface** | Separate customer application with focused controls and configurable presentation |
+| **Updates** | Automatic updates through the universal launcher |
 | **CS2 modes** | Designed for Premier, Competitive, Wingman, Deathmatch, and practice modes |
 | **Visuals** | High-refresh player ESP, skeletons, radar, world information, and bomb data |
 | **Access** | Affordable daily, weekly, monthly, and lifetime key options |
@@ -54,12 +51,10 @@
 
 ## Why ZelixLens
 
-- **Kernel-first architecture** — the standard backend reads through a full kernel-backed transport.
-- **Conservative interaction model** — ZelixLens stays external and uses read-only game-data access.
 - **Smooth presentation** — high-refresh snapshots, adjustable overlay frame rate, and responsive ESP rendering.
 - **Complete feature set** — player visuals, radar, world intelligence, aim configuration, presets, and display controls in one application.
 - **Flexible access** — choose an affordable duration that fits what you need instead of paying for a longer key immediately.
-- **Maintained releases** — the launcher verifies access and supports authenticated software updates.
+- **Maintained releases** — the launcher verifies access and keeps the software updated.
 
 ## Feature set
 
@@ -93,23 +88,12 @@
 ### Launcher and updates
 
 - License-key verification with saved-key support
-- Automatic authenticated update checks
+- Automatic update checks
 - Complete customer package with verification files and release provenance
-
-## Full kernel, external, and read-only
-
-ZelixLens uses a **full kernel-backed read transport** as its standard memory backend while the customer application remains external to CS2.
-
-- It does not inject a DLL or other code into the game process.
-- It does not write to CS2 process memory.
-- Game-data access is read-only.
-- The overlay, menu, settings, and rendering run in the separate ZelixLens application.
-
-This design keeps game-data interaction narrow while still supporting the refresh rate required by ESP, radar, bomb information, and the rest of the live overlay.
 
 ## Premier and CS2 modes
 
-ZelixLens is designed to work across normal Counter-Strike 2 match types, including **Premier**, Competitive, Wingman, Deathmatch, and practice sessions. The same external, read-only backend and customer settings are used across these modes.
+ZelixLens is designed to work across normal Counter-Strike 2 match types, including **Premier**, Competitive, Wingman, Deathmatch, and practice sessions. The same customer settings are used across these modes.
 
 ## Get the package and a key
 
@@ -157,7 +141,7 @@ See [Verify a download](.github/docs/VERIFY.md) for the complete PowerShell veri
 - Windows 10 or Windows 11, x64
 - Counter-Strike 2
 - An active ZelixLens access key
-- Network access for license verification and authenticated updates
+- Network access for license verification and automatic updates
 
 CS2 changes frequently. Check the date and compatibility notes on the [latest release](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest) before installing an older package.
 

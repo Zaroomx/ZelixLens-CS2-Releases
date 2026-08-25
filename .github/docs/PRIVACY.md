@@ -15,13 +15,13 @@ KeyAuth processes this information as an independent service provider under its 
 
 ## Local storage
 
-- A saved access key is protected with Windows current-user encryption (DPAPI).
+- Saved access information is stored for the current Windows user.
 - User-created visual presets and application preferences remain on the local computer unless the user chooses to share them.
 - Session-only activation data is not intended to be stored as a reusable plaintext credential.
 
 ## Updates and downloads
 
-The launcher contacts GitHub to retrieve authenticated release metadata and approved update assets. GitHub may process standard connection and download metadata under GitHub's own privacy terms.
+The launcher contacts GitHub to retrieve current release information and approved update assets. GitHub may process standard connection and download metadata under GitHub's own privacy terms.
 
 ## Support services
 
